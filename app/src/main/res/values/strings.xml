@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ASL Savvy Draft 1</string>
+    <string-array name="spinner">
+        <item>gift</item>
+        <item>car</item>
+        <item>pay</item>
+        <item>pet</item>
+        <item>sell</item>
+        <item>explain</item>
+        <item>that</item>
+        <item>book</item>
+        <item>now</item>
+        <item>work</item>
+        <item>total</item>
+        <item>trip</item>
+        <item>future</item>
+        <item>good</item>
+        <item>thank you</item>
+        <item>learn</item>
+        <item>work</item>
+        <item>agent</item>
+        <item>should</item>
+        <item>like</item>
+        <item>movie</item>
+    </string-array>
+    <string name="select">Select</string>
+    <string name="Name">Name </string>
+    <string name="button">Practice</string>
+    <string name="upload">Button</string>
+    <string name="Capture">Button</string>
+</resources>
